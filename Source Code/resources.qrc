@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/green_circle.png</file>
+        <file>images/red_circle.png</file>
+        <file>images/checkers.png</file>
+        <file>images/black_rule.png</file>
+        <file>images/white_rule.png</file>
+        <file>images/fireworks.gif</file>
+        <file>images/stalemate.gif</file>
+        <file>images/triangle_right.png</file>
+        <file>images/triangle_down.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>fonts/Arcade.TTF</file>
+    </qresource>
+</RCC>
